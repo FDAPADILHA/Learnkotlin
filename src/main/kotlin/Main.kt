@@ -1,5 +1,3 @@
-//File > Editor > Natural Leanguages > Proofreading
-fun main (){
+fun main() {
     println("Hello, World!")
-//            Function comments
 }
