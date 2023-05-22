@@ -12,4 +12,9 @@ fun main(){
     //INTERPOLAÇÃO
     println("Eu sou $nome $sobrenome")
 
+    //CONTATENANDO STRINGS
+    println("Eu sou Filipe do Amaral Padilha " + "tenho 21 anos, " +
+    "estou estudando Kotlin " +
+    "e até o momento estou gostando bastante")
+
 }
