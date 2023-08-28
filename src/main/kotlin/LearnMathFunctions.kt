@@ -19,6 +19,10 @@ fun main(){
     println(milhas(2f))
     //5
     println(stringX("Filipe do Amaral Padilha"))
+    //6
+    println(qtdCarStringSmp("Estudando Kotlin"))
+    println(cuboIntSmp(2))
+    println(milhasSmp(1f))
 }
 
 fun tempoanos(anos : Int){
@@ -49,6 +53,9 @@ fun stringX(palavra : String){
     println(texto)
 }
 
+fun qtdCarStringSmp(str : String) = println(str.length)
+fun cuboIntSmp (n : Int) = println(n*n*n)
+fun milhasSmp (mi : Float) = println(mi * 1.6f)
 //EXERCISE_2
 
 /*
