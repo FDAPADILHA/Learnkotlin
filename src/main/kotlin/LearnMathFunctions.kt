@@ -56,6 +56,7 @@ fun stringX(palavra : String){
 fun qtdCarStringSmp(str : String) = println(str.length)
 fun cuboIntSmp (n : Int) = println(n*n*n)
 fun milhasSmp (mi : Float) = println(mi * 1.6f)
+
 //EXERCISE_2
 
 /*
